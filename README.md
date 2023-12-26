@@ -9,10 +9,10 @@ BattleEye
 E  
 DayZ            
 R6:Si    
-Unturne      
+Unturne     
  
 Easy Anti-ch  
-Rust    
+Rust     
 SCU
 Dead by Daylight 
 Enlisted

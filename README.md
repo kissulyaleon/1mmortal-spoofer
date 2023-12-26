@@ -8,8 +8,8 @@
 BattleEye         
 E     
 DayZ               
-R6:Si     
-Unt  
+R6:Si      
+Unt 
 Easy Anti-c     
 Rust     
 S  

@@ -7,13 +7,13 @@
 ## Work in ga 
 BattleEye       
 E 
-DayZ             
+DayZ            
 R6:Si      
 Unturne       
 Fort
 Easy Anti-ch 
 A
-Rust  
+Rust   
 SCU
 Dead by Daylight
 Enlisted

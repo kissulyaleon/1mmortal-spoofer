@@ -5,10 +5,10 @@
 ## Showcase
 ![immortal_322_hM574sNMraQMiMRaGnmZ](https://gihu b.c m/NIcecz/hwid-spoofe/assets/117065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
 ## Work in ga 
-BattleEye      
+BattleEye       
 E 
 DayZ             
-R6:Si      
+R6:Si     
 Unturne       
 Fort
 Easy Anti-ch 

@@ -10,10 +10,10 @@ EF
 DayZ           
 R6:Si      
 Unturne      
-Fortn 
+Fortn
 Easy Anti-cheat
 Ape
-Rust
+Rust 
 SCUM
 Dead by Daylight
 Enlisted

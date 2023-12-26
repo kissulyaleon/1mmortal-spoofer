@@ -10,8 +10,8 @@ BattleEye
 EF      
 DayZ  
 R6:Si
-Unturne  
-Arma 
+Unturne   
+Arma
 Fortn 
  
 Easy Anti-cheat:

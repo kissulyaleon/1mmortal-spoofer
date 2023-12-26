@@ -7,13 +7,13 @@
 ## Work in ga 
 BattleEye         
 E    
-DayZ               
+DayZ              
 R6:Si     
 Unt  
 Easy Anti-c    
 Rust     
 S   
-Dead by Daylig      
+Dead by Daylig       
 Enliste
 Fortnit
 

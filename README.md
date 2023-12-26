@@ -11,8 +11,8 @@ EF
 DayZ 
 R6:Si   
 Unturne   
-Arm
-Fortn 
+Ar
+Fortn  
  
 Easy Anti-cheat:
 

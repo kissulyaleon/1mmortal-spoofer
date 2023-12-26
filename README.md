@@ -9,8 +9,8 @@ BattleEye
 EF
 DayZ           
 R6:Si      
-Unturne      
-Fortn
+Unturne       
+Fort
 Easy Anti-cheat
 Ape
 Rust 

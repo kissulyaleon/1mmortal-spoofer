@@ -8,11 +8,11 @@
 BattleEye       
 E 
 DayZ             
-R6:Si     
+R6:Si      
 Unturne       
 Fort
 Easy Anti-ch 
-Ap
+A
 Rust  
 SCU
 Dead by Daylight

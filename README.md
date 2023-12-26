@@ -10,9 +10,9 @@ E
 DayZ                
 R6:Si        
 Unturne 
-Easy Anti-c 
+Easy Anti-c  
 Rust      
-SC
+S
 Dead by Daylig  
 Enliste
 Fortnite

@@ -9,9 +9,9 @@ BattleEye
 E 
 DayZ             
 R6:Si      
-Unturne        
+Unturne       
 Fort
-Easy Anti-ch
+Easy Anti-ch 
 Ap
 Rust  
 SCUM

@@ -9,8 +9,8 @@
 BattleEye   
 EF     
 DayZ 
-R6:Sie
-Unturne    
+R6:Si
+Unturne     
 Arma 
 Fortnit
 

@@ -8,10 +8,10 @@
 BattleEye         
 E    
 DayZ                
-R6:Si      
+R6:Si       
 Unturne 
 Easy Anti-ch 
-Rust      
+Rust     
 SC 
 Dead by Daylig
 Enlisted

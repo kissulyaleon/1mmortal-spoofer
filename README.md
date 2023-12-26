@@ -7,12 +7,12 @@
 ## Work in ga 
 BattleEye          
 E   
-DayZ               
+DayZ                
 R6:Si      
 Unturn
 Easy Anti-c    
 Rust     
-S  
+S 
 Dead by Daylig    
 Enliste
 Fortnite

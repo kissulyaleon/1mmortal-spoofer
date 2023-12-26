@@ -8,10 +8,10 @@
 BattleEye      
 E 
 DayZ            
-R6:Si        
+R6:Si       
 Unturne       
 Fort
-Easy Anti-ch
+Easy Anti-ch 
 Ap
 Rust  
 SCUM

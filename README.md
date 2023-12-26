@@ -9,8 +9,8 @@ BattleEye
 E 
 DayZ            
 R6:Si     
-Unturne       
-Fo 
+Unturne        
+Fo
 Easy Anti-ch   
 
 Rust    

@@ -9,10 +9,10 @@ BattleEye
 E    
 DayZ                 
 R6:Si     
-Unturne
+Unturn
 Easy Anti-c   
 Rust     
-S
+S 
 Dead by Daylig    
 Enliste
 Fortnite

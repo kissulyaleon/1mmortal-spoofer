@@ -7,10 +7,10 @@
 ## Work in ga 
 BattleEye       
 E 
-DayZ            
+DayZ             
 R6:Si     
 Unturne        
-Fo
+F
 Easy Anti-ch   
 
 Rust    

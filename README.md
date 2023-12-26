@@ -10,10 +10,10 @@ E
 DayZ            
 R6:Si      
 Unturne       
-Fort
+For
 Easy Anti-ch 
 A
-Rust   
+Rust    
 SCU
 Dead by Daylight
 Enlisted

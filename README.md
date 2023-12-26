@@ -11,9 +11,9 @@ DayZ
 R6:Si      
 Unturne 
 Easy Anti-ch 
-Rust       
+Rust      
 SC 
-Dead by Daylig
+Dead by Daylig 
 Enlisted
 Fortnite
 

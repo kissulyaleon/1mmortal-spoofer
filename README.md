@@ -9,9 +9,9 @@
 
 BattleEye
    
-PU
+P
 EFT 
-DayZ 
+DayZ  
 R6:Siege 
 Unturne
 Arma 3

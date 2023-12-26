@@ -9,9 +9,9 @@ BattleEye
 E     
 DayZ               
 R6:Si        
-Untur
+Untu
 Easy Anti-c     
-Rust    
+Rust     
 S
 Dead by Daylig    
 Enliste

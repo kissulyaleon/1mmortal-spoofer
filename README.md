@@ -7,11 +7,11 @@
 ## Work in ga
 BattleEye      
 E 
-DayZ            
+DayZ             
 R6:Si      
 Unturne        
 Fort
-Easy Anti-ch 
+Easy Anti-ch
 Ap
 Rust  
 SCUM

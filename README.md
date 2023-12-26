@@ -7,12 +7,12 @@
 ## Work in ga  
 BattleEye         
 E    
-DayZ                
+DayZ                 
 R6:Si       
 Unturne 
 Easy Anti-ch 
 Rust     
-SC 
+SC
 Dead by Daylig
 Enlisted
 Fortnite

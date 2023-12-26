@@ -7,11 +7,10 @@
 ## Work in gam
 BattleEye     
 EF
-DayZ          
+DayZ           
 R6:Si      
 Unturne      
 Fortn 
-
 Easy Anti-cheat
 Ape
 Rust

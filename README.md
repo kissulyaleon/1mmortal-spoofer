@@ -9,11 +9,11 @@ BattleEye
 E    
 DayZ                
 R6:Si      
-Unturne
+Unturne 
 Easy Anti-ch 
 Rust      
 SC 
-Dead by Daylig 
+Dead by Daylig
 Enlisted
 Fortnite
 

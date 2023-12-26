@@ -8,11 +8,11 @@
 ## Work in games
 BattleEye    
 EF   
-DayZ    
+DayZ     
 R6:Si        
 Unturne   
  
-Fortn 
+Fortn
  
 Easy Anti-cheat:
 Apex

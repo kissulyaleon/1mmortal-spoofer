@@ -12,9 +12,9 @@ DayZ
 R6:Si       
 Unturne
 
-Fortn   
+Fortn    
 
-Easy Anti-cheat: 
+Easy Anti-cheat:
  
 Apex
 Rust

@@ -11,10 +11,10 @@ DayZ
 R6:Si         
 Unturne  
 Easy Anti-c 
-Rust    
+Rust     
 SC
 Dead by Daylig  
-Enlisted
+Enliste
 Fortnite
 
 

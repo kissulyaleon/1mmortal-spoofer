@@ -12,8 +12,8 @@ R6:Si
 Unturne  
 Easy Anti-ch   
 Rust      
-SC
-Dead by Daylight
+SC 
+Dead by Dayligh
 Enlisted
 Fortnite
 

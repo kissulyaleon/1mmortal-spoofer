@@ -8,9 +8,9 @@
 BattleEye     
 EF 
 DayZ         
-R6:Si    
+R6:Si     
 Unturne      
-Fortn  
+Fortn 
  
 Easy Anti-cheat
 Ape

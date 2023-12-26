@@ -7,10 +7,10 @@
 ## Work in ga 
 BattleEye         
 E      
-DayZ              
+DayZ               
 R6:Si          
 Unturne  
-Easy Anti-ch
+Easy Anti-c
 Rust    
 SC
 Dead by Daylig

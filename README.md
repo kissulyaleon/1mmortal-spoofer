@@ -4,13 +4,13 @@
 
 ## Showcase
 
-![immortal_322_hM574sNMraQMiMRaGnmZ](https://github.co m/NIcecz/hwid-spoofer/assets/117065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
+![immortal_322_hM574sNMraQMiMRaGnmZ](https://githu b.co m/NIcecz/hwid-spoofer/assets/117065400/4422591c-9ecd-40df-89b2-4832d266cbe9)
 ## Work in games -
 
 BattleEye
    
 P
-EFT 
+EFT
 DayZ  
 R6:Siege 
 Unturne

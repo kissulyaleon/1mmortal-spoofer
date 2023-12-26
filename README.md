@@ -9,8 +9,8 @@
 ## Work in games -
  
 BattleEye: 
- 
-PUB
+  
+PU
 EFT
 DayZ
 R6:Siege

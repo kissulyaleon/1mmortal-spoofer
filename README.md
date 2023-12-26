@@ -8,10 +8,10 @@
 ## Work in games -
 BattleEye   
 EF    
-DayZ 
+DayZ
 R6:Sie
 Unturne    
-Arma 
+Arma  
 Fortnite
 
 Easy Anti-cheat:

@@ -8,11 +8,11 @@
 BattleEye     
 EF
 DayZ           
-R6:Si      
+R6:Si       
 Unturne       
 Fort
 Easy Anti-cheat
-Ape
+Ap
 Rust 
 SCUM
 Dead by Daylight

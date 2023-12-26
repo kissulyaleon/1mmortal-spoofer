@@ -12,8 +12,8 @@ R6:Si
 Unt 
 Easy Anti-c    
 Rust     
-S    
-Dead by Daylig       
+S   
+Dead by Daylig        
 Enliste
 Fortnit
 

@@ -11,8 +11,8 @@ DayZ
 R6:Si     
 Unturne       
 Fo 
-Easy Anti-ch  
-A
+Easy Anti-ch   
+
 Rust    
 SCU
 Dead by Daylight

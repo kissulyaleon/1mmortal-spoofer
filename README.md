@@ -8,10 +8,10 @@
 ## Work in games
 BattleEye     
 EF   
-DayZ    
+DayZ   
 R6:Si      
 Unturne  
-
+ 
 Fortn   
 
 Easy Anti-cheat:

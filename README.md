@@ -10,11 +10,11 @@ E
 DayZ               
 R6:Si     
 Unturne        
-F
+
 Easy Anti-ch  
 Rust    
 SCU
-Dead by Daylight
+Dead by Daylight 
 Enlisted
 Fortnite
 

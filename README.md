@@ -8,8 +8,8 @@
 BattleEye         
 E  
 DayZ             
-R6:Si    
-Unturne      
+R6:Si   
+Unturne       
 
 Easy Anti-ch  
 Rust    

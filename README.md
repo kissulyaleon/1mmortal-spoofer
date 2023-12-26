@@ -8,8 +8,8 @@
 ## Work in games -
 BattleEye   
 EF    
-DayZ
-R6:Sieg
+DayZ 
+R6:Sie
 Unturne    
 Arma 
 Fortnite

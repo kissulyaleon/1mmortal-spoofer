@@ -10,9 +10,9 @@ BattleEye
 EF     
 DayZ 
 R6:Sie
-Unturne   
+Unturne    
 Arma 
-Fortnite
+Fortnit
 
 Easy Anti-cheat:
 

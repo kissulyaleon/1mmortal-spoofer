@@ -8,8 +8,7 @@
 ## Work in games -
 BattleEye   
 
-
-EF 
+EF  
 DayZ  
 R6:Siege 
 Unturne

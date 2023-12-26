@@ -11,11 +11,11 @@ EF
 DayZ
 R6:Si  
 Unturne    
-Ar 
+Ar
 Fortn  
   
 Easy Anti-cheat:
-
+ 
 Apex
 Rust
 SCUM

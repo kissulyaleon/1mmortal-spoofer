@@ -7,9 +7,9 @@
 ## Work in game
 BattleEye     
 EF 
-DayZ          
+DayZ         
 R6:Si    
-Unturne     
+Unturne      
 Fortn  
  
 Easy Anti-cheat

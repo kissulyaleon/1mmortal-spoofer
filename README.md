@@ -11,8 +11,8 @@ DayZ
 R6:Si     
 Unturne   
 
-Easy Anti-ch  
-Rust    
+Easy Anti-ch 
+Rust     
 SCU
 Dead by Daylight 
 Enlisted

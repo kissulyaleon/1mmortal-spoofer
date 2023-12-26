@@ -11,9 +11,9 @@ DayZ
 R6:Si      
 Unturne       
 Fort
-Easy Anti-cheat
+Easy Anti-chea
 Ap
-Rust 
+Rust  
 SCUM
 Dead by Daylight
 Enlisted

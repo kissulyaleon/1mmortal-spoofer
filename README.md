@@ -9,11 +9,11 @@ BattleEye
 E    
 DayZ              
 R6:Si      
-Un  
+Un   
 Easy Anti-c    
 Rust       
 S   
-Dead by Daylig       
+Dead by Daylig      
 Enliste
 Fortnit
 

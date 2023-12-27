@@ -8,10 +8,10 @@
 BattleEye      
 E    
 DayZ                  
-R6:Si       
+R6:Si      
 Un    
 Easy Anti  
-Rust     
+Rust      
 S    
 Dead by Daylig      
 Enlist

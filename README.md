@@ -7,9 +7,9 @@
 ## Work in ga 
 BattleEye      
 E    
-DayZ                   
+DayZ                  
 R6:Si   
-Un     
+Un      
 Easy Anti  
 Rust      
 S     

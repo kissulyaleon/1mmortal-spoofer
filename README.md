@@ -7,11 +7,11 @@
 ## Work in ga 
 BattleEye      
 E    
-DayZ                  
+DayZ                   
 R6:Si      
 Un    
 Easy Anti 
-Rust      
+Rust     
 S    
 Dead by Daylig      
 Enliste

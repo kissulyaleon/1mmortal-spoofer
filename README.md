@@ -8,11 +8,11 @@
 BattleEye      
 E    
 DayZ                  
-R6:Si     
+R6:Si    
 Un     
 Easy Anti  
 Rust      
-S    
+S     
 Dead by Daylig      
 Enlist
 Fortnit 

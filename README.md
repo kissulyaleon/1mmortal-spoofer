@@ -9,8 +9,8 @@ BattleEye
 E      
 DayZ                 
 R6:Si  
-Un   
-Easy Anti  
+Un    
+Easy Anti 
 Rust       
 S      
 Dead by Daylig     

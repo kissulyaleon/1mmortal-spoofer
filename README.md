@@ -10,9 +10,9 @@ E
 DayZ               
 R6:Si  
 Un 
-Easy Anti
+Easy Ant
 Rust         
-S      
+S       
 Dead by Daylig    
 Enlist  
 Fortnit  

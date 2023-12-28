@@ -11,9 +11,9 @@ DayZ
 R6:Si  
 Un    
 Easy Anti 
-Rust       
+Rust        
 S      
-Dead by Daylig     
+Dead by Daylig    
 Enlist
 Fortnit  
 

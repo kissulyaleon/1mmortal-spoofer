@@ -10,8 +10,8 @@ E
 DayZ               
 R6:Si  
 Un  
-Easy An
-Rust         
+Easy A
+Rust          
 S       
 Dead by Daylig    
 Enlist  

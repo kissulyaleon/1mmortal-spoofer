@@ -8,8 +8,8 @@
 BattleEye          
 E       
 DayZ               
-R6:Si  
-Un  
+R6:Si 
+Un   
 Easy A 
 Rust          
 S      
